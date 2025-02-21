@@ -1,0 +1,25 @@
+name,specialization,day,time,status
+Dr. Smith,Cardiologist,Monday,11am,free
+Dr. Smith,Cardiologist,Monday,12pm,free
+Dr. Smith,Cardiologist,Monday,1pm,free
+Dr. Smith,Cardiologist,Monday,2pm,free
+Dr. Smith,Cardiologist,Monday,3pm,free
+Dr. Smith,Cardiologist,Monday,4pm,free
+Dr. Johnson,Neurologist,Monday,11am,free
+Dr. Johnson,Neurologist,Monday,12pm,free
+Dr. Johnson,Neurologist,Monday,1pm,free
+Dr. Johnson,Neurologist,Monday,2pm,free
+Dr. Johnson,Neurologist,Monday,3pm,free
+Dr. Johnson,Neurologist,Monday,4pm,free
+Dr. Brown,Orthopedic,Tuesday,11am,free
+Dr. Brown,Orthopedic,Tuesday,12pm,free
+Dr. Brown,Orthopedic,Tuesday,1pm,free
+Dr. Brown,Orthopedic,Tuesday,2pm,free
+Dr. Brown,Orthopedic,Tuesday,3pm,free
+Dr. Brown,Orthopedic,Tuesday,4pm,free
+Dr. Williams,Endocrinologist,Wednesday,11am,free
+Dr. Williams,Endocrinologist,Wednesday,12pm,free
+Dr. Williams,Endocrinologist,Wednesday,1pm,free
+Dr. Williams,Endocrinologist,Wednesday,2pm,free
+Dr. Williams,Endocrinologist,Wednesday,3pm,free
+Dr. Williams,Endocrinologist,Wednesday,4pm,free
